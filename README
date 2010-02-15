@@ -1,0 +1,7 @@
+MySQL (PHP Login Script)
+
+This is my first PHP application. Lastest version was: September 6 2004.
+Using PHP 4.3.8, 
+MySQL 4.x 
+mysql_* libraries
+Register Globals MUST be ON for this application :/ (yes, this is my 1. app, remember ? :])
